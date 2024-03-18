@@ -1,0 +1,28 @@
+.contact{
+    background-color: maroon;
+    padding: 60px;
+    max-width: 600px;
+}
+.photo{
+    display:flex;
+    align-items: center;
+
+}
+.photo img{
+        max width: 4000px;
+        margin-left: 780px;
+        height: 400px;
+        display: inline;
+        margin-top: -1100px;
+    }
+.con{
+    margin-left:700px;
+    margin-top: -380px;
+    padding: 50px;
+    font-size:20px;
+    border-radius: 50px;
+}
+.u-form-group u-form-submit
+{
+    background-color: blue;
+}
