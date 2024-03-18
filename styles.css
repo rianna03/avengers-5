@@ -1,0 +1,34 @@
+.zanzi{
+    display: flex;
+    width: auto;
+    height: 400px;
+}
+.ke{
+    display: flex;
+    width: auto;
+    height: 400px; 
+}
+.rwd{
+    display: flex;
+    width: auto;
+    height: 400px;
+}
+img{
+    display: flex;
+    height: 400px;
+    width: 300px;
+}
+p{
+text-align: center;
+background-color:coral;
+padding-top: 50px;
+}
+body{
+    background-color: blanchedalmond;
+}
+h1 {
+    text-align: center;
+}
+.p1{
+    padding-top: 100px;
+}
